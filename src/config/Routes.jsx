@@ -3,7 +3,7 @@ import { Route, Switch } from "react-router-dom";
 
 import Home from "../pages/Home";
 import Catelog from "../pages/Catelog";
-import Detail from "../pages/Detail";
+import Detail from "../pages/detail/Detail";
 
 function Routes(props) {
   return (
